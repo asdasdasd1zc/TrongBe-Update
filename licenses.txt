@@ -1,4 +1,3 @@
 #TrongBe licenses v1
-issued=2026-09-29T06:32:40Z
-ZU2F-AB9B-2UQ9-U3NW|*
-sig=wjKdn+G7CkfEQwlpwFasSfnmOnGLAVQUuYABdc94HWFxnmqLCAU0i6jsZ90fsJIPi5nBRvu2fAvR4L+F7HqH8w==
+issued=2026-09-30T04:27:08Z
+sig=Otyo8jgJWCm9VkghZo7zjKQxmqDi9Se0cxGtCEuYQoShyFtP1Pw1s8vAgezU0AX1CyQ+w7ZIv6VxUPgadG4gSA==
